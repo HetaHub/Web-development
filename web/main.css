@@ -1,0 +1,44 @@
+body {
+  height: 100%;
+  overflow-x: hidden;
+}
+.carousel .item{
+    width:100%;
+    height:640px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .carousel-control-prev-icon{
+    height: 100px;
+    width: 100px;
+    outline: white;
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 0px solid white;
+    background-image: none;
+    margin-right:auto;
+  }
+  .carousel-control-next-icon {
+    height: 100px;
+    width: 100px;
+    outline: white;
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 0px solid white;
+    background-image: none;
+    margin-left:auto;
+  }
+  
+  .carousel-control-next-icon:after
+  {
+    content: '>';
+    font-size: 55px;
+    color: white;
+  }
+  
+  .carousel-control-prev-icon:after {
+    content: '<';
+    font-size: 55px;
+    color: white;
+  }
+
