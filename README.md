@@ -1,3 +1,3 @@
 # Web-development
 
-Old work with bootstrap, PHP, SQLite and AWS EC2
+Web development with bootstrap, PHP, SQLite and AWS EC2
