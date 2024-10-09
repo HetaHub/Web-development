@@ -1,4 +1,3 @@
-Name: Tang Lok Yin Student id:1155127396
 This website is using Bootstrap 4 to make, therefore inserted css and script library from bootstrap. All CSS are in the
 headings and all scripts are at the end. No inline CSS and JS in between. Also, most of the elements, styling are using 
 the class tag to achieve, such as col-md-4 means that occupies 4 columns on medium or above screen, some further functions
